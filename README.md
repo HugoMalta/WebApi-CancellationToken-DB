@@ -29,3 +29,7 @@
 * Observação:
   * A query executada possui uma instrução de delay dentro do DB, para demonstrar mais facilmente a possibilidade de cancelar a request enquanto estiver dentro do DB.
 <!--te-->
+
+<h3>Conclusão:</h3> 
+Cada implementação tem um comportamento diferente. <br>
+O que é melhor? Depende do seu projeto e da especificação definida pela área de negócio.
